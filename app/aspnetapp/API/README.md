@@ -1,0 +1,2 @@
+Run app
+`dotnet run`
